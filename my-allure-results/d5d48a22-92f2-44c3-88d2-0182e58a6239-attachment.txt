@@ -1,0 +1,16 @@
+2024-06-03T18:14:54+05:30 [info]: Navigate to the Sciensus HomePage
+2024-06-03T18:14:55+05:30 [info]: verify the Sciensus HomePage Title
+2024-06-03T18:15:01+05:30 [info]: Click on the SignIn link
+2024-06-03T18:15:01+05:30 [info]: Portal User navigate to the Login Page
+2024-06-03T18:15:01+05:30 [info]: Calling the bypassEmailAuthentication function
+2024-06-03T18:15:01+05:30 [info]: Gets the URL of the Page
+2024-06-03T18:15:03+05:30 [info]: Replacing the string from the URL
+2024-06-03T18:15:04+05:30 [info]: Enter the Valid Email
+2024-06-03T18:15:05+05:30 [info]: Enter the Valid Password
+2024-06-03T18:15:06+05:30 [info]: Click on the SignIN button
+2024-06-03T18:15:17+05:30 [info]: Click on the Edit User Account Button
+Current First Name: Manish
+Current Last Name: CE
+2024-06-03T18:15:30+05:30 [info]: Click on the Edit User Account Button
+Updated First Name: Playwright
+Updated Last Name: Automation

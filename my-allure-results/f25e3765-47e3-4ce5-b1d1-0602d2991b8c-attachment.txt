@@ -1,0 +1,1 @@
+Error fetching OTP: Verification code not found in the verification email

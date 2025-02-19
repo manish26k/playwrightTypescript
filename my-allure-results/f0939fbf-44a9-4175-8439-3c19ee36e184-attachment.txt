@@ -1,0 +1,16 @@
+2024-06-04T07:57:11+05:30 [info]: Navigate to the Sciensus HomePage
+2024-06-04T07:57:11+05:30 [info]: verify the Sciensus HomePage Title
+2024-06-04T07:57:17+05:30 [info]: Click on the SignIn link
+2024-06-04T07:57:17+05:30 [info]: Portal User navigate to the Login Page
+2024-06-04T07:57:17+05:30 [info]: Calling the bypassEmailAuthentication function
+2024-06-04T07:57:17+05:30 [info]: Gets the URL of the Page
+2024-06-04T07:57:20+05:30 [info]: Replacing the string from the URL
+2024-06-04T07:57:20+05:30 [info]: Enter the Valid Email
+2024-06-04T07:57:22+05:30 [info]: Enter the Valid Password
+2024-06-04T07:57:23+05:30 [info]: Click on the SignIN button
+2024-06-04T07:57:29+05:30 [info]: Click on the Edit User Account Button
+Portal User First Name: Playwright
+Portal User Last Name: Automation
+2024-06-04T07:57:38+05:30 [info]: Click on the Edit User Account Button
+Portal User Updated First Name: Playwright
+Portal User Updated Last Name: Automation

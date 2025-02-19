@@ -1,0 +1,17 @@
+2024-06-28T17:54:12+05:30 [info]: Navigate to the Sciensus HomePage
+2024-06-28T17:54:12+05:30 [info]: verify the Sciensus HomePage Title
+2024-06-28T17:54:18+05:30 [info]: Click on the SignIn link
+2024-06-28T17:54:18+05:30 [info]: Portal User navigate to the Login Page
+2024-06-28T17:54:18+05:30 [info]: Calling the bypassEmailAuthentication function
+2024-06-28T17:54:18+05:30 [info]: Gets the URL of the Page
+2024-06-28T17:54:22+05:30 [info]: Replacing the string from the URL
+2024-06-28T17:54:22+05:30 [info]: Enter the Valid Email
+2024-06-28T17:54:23+05:30 [info]: Enter the Valid Password
+2024-06-28T17:54:24+05:30 [info]: Click on the SignIN button
+2024-06-28T17:54:36+05:30 [info]: Click on the Add New User Account Button
+Inbox created with ID: 633eb1fd-7e93-46f1-9ad4-99edda7e2811 and Email Address: 633eb1fd-7e93-46f1-9ad4-99edda7e2811@mailslurp.net
+2024-06-28T17:56:17+05:30 [info]: Click on the SignIn link
+2024-06-28T17:56:17+05:30 [info]: Portal User navigate to the Login Page
+Extracted Credentials- username: 633eb1fd-7e93-46f1-9ad4-99edda7e2811@mailslurp.net<br>
+Extracted Credentials- password: [y7LEwk9\I<br>
+2024-06-28T17:56:22+05:30 [info]: Click on the SignIN button

@@ -1,0 +1,100 @@
+2024-05-26T14:51:22+05:30 [info]: Navigate to the Sciensus HomePage
+2024-05-26T14:51:23+05:30 [info]: verify the Sciensus HomePage Title
+2024-05-26T14:51:30+05:30 [info]: Click on the SignIn link
+2024-05-26T14:51:31+05:30 [info]: Portal User navigate to the Login Page
+2024-05-26T14:51:31+05:30 [info]: Calling the bypassEmailAuthentication function
+2024-05-26T14:51:31+05:30 [info]: Gets the URL of the Page
+2024-05-26T14:51:33+05:30 [info]: Replacing the string from the URL
+2024-05-26T14:51:33+05:30 [info]: Enter the Valid Email
+2024-05-26T14:51:34+05:30 [info]: Enter the Valid Password
+2024-05-26T14:51:36+05:30 [info]: Click on the SignIN button
+2024-05-26T14:51:47+05:30 [info]: Click on the Add New User Account Button
+Email content for user1716715307977@n9tyo3cv.mailosaur.net:  Dear Nathaniel Lesch,
+
+You are now setup to use the Sciensus Portal.
+Please Sign In to the Portal by clicking here: https://hah-ce-prbportal.powerappsportals.com/
+
+Then enter your Username and Password that is shown below:
+
+Username: user1716715307977@n9tyo3cv.mailosaur.net
+Password: r]R(IcL8F<
+
+Regards,
+Sciensus Portal Team
+[https://hah-ce-prbportal.powerappsportals.com/sciensus_logo.svg]
+IMPORTANT PLEASE READ
+
+Sciensus and logo are registered trademarks. Sciensus Pharma Services Limited registered in England under Company No. 02759609. Registered office: 107 Station Street, Burton upon Trent, Staffordshire, DE14 1SZ, UK.
+
+e-mail: generalenquiries@sciensus.com <mailto:generalenquiries@sciensus.com>
+
+This e-mail and the information that it contains may contain private, confidential, or privileged information. Access is authorised by the intended recipient only. If you are not the intended recipient please notify the sender immediately and do not disclose the contents to any other person, use it for any purpose or store or copy the information in any medium.
+
+Copyright and other intellectual property rights in this e-mail and any attachments to this e-mail created by Sciensus Pharma Services Limited belongs to Sciensus Pharma Services Limited, and as the author Sciensus Pharma Services Limited asserts the right to be identified as such and object to any misuse.
+
+Please note that any attachments to this e-mail have been checked for viruses but please rely on your own virus checker and procedures.
+
+Any liability (in negligence, contract or otherwise) arising from any third party taking any action, or refraining from taking any action, on the basis of any of the information contained in this e-mail is excluded.
+
+
+Sciensus Registered Username-----user1716715307977@n9tyo3cv.mailosaur.net
+Sciensus Registered Password-----r]R(IcL8F<
+2024-05-26T14:53:01+05:30 [info]: Click on the SignIn link
+2024-05-26T14:53:01+05:30 [info]: Portal User navigate to the Login Page
+2024-05-26T14:53:04+05:30 [info]: Click on the SignIN button
+Email content for user1716715307977@n9tyo3cv.mailosaur.net:  Dear Nathaniel Lesch,
+
+You are now setup to use the Sciensus Portal.
+Please Sign In to the Portal by clicking here: https://hah-ce-prbportal.powerappsportals.com/
+
+Then enter your Username and Password that is shown below:
+
+Username: user1716715307977@n9tyo3cv.mailosaur.net
+Password: r]R(IcL8F<
+
+Regards,
+Sciensus Portal Team
+[https://hah-ce-prbportal.powerappsportals.com/sciensus_logo.svg]
+IMPORTANT PLEASE READ
+
+Sciensus and logo are registered trademarks. Sciensus Pharma Services Limited registered in England under Company No. 02759609. Registered office: 107 Station Street, Burton upon Trent, Staffordshire, DE14 1SZ, UK.
+
+e-mail: generalenquiries@sciensus.com <mailto:generalenquiries@sciensus.com>
+
+This e-mail and the information that it contains may contain private, confidential, or privileged information. Access is authorised by the intended recipient only. If you are not the intended recipient please notify the sender immediately and do not disclose the contents to any other person, use it for any purpose or store or copy the information in any medium.
+
+Copyright and other intellectual property rights in this e-mail and any attachments to this e-mail created by Sciensus Pharma Services Limited belongs to Sciensus Pharma Services Limited, and as the author Sciensus Pharma Services Limited asserts the right to be identified as such and object to any misuse.
+
+Please note that any attachments to this e-mail have been checked for viruses but please rely on your own virus checker and procedures.
+
+Any liability (in negligence, contract or otherwise) arising from any third party taking any action, or refraining from taking any action, on the basis of any of the information contained in this e-mail is excluded.
+
+
+Email content retrieved:  Dear Nathaniel Lesch,
+
+You are now setup to use the Sciensus Portal.
+Please Sign In to the Portal by clicking here: https://hah-ce-prbportal.powerappsportals.com/
+
+Then enter your Username and Password that is shown below:
+
+Username: user1716715307977@n9tyo3cv.mailosaur.net
+Password: r]R(IcL8F<
+
+Regards,
+Sciensus Portal Team
+[https://hah-ce-prbportal.powerappsportals.com/sciensus_logo.svg]
+IMPORTANT PLEASE READ
+
+Sciensus and logo are registered trademarks. Sciensus Pharma Services Limited registered in England under Company No. 02759609. Registered office: 107 Station Street, Burton upon Trent, Staffordshire, DE14 1SZ, UK.
+
+e-mail: generalenquiries@sciensus.com <mailto:generalenquiries@sciensus.com>
+
+This e-mail and the information that it contains may contain private, confidential, or privileged information. Access is authorised by the intended recipient only. If you are not the intended recipient please notify the sender immediately and do not disclose the contents to any other person, use it for any purpose or store or copy the information in any medium.
+
+Copyright and other intellectual property rights in this e-mail and any attachments to this e-mail created by Sciensus Pharma Services Limited belongs to Sciensus Pharma Services Limited, and as the author Sciensus Pharma Services Limited asserts the right to be identified as such and object to any misuse.
+
+Please note that any attachments to this e-mail have been checked for viruses but please rely on your own virus checker and procedures.
+
+Any liability (in negligence, contract or otherwise) arising from any third party taking any action, or refraining from taking any action, on the basis of any of the information contained in this e-mail is excluded.
+
+

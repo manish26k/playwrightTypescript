@@ -1,0 +1,2 @@
+2024-05-29T11:30:24+05:30 [info]: Navigate to the Sciensus HomePage
+2024-05-29T11:30:26+05:30 [info]: verify the Sciensus HomePage Title

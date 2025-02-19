@@ -1,0 +1,12 @@
+2024-06-25T22:15:10+05:30 [info]: Navigate to the Sciensus HomePage
+2024-06-25T22:15:10+05:30 [info]: verify the Sciensus HomePage Title
+2024-06-25T22:16:00+05:30 [info]: Click on the SignIn link
+2024-06-25T22:16:00+05:30 [info]: Portal User navigate to the Login Page
+2024-06-25T22:16:00+05:30 [info]: Calling the bypassEmailAuthentication function
+2024-06-25T22:16:00+05:30 [info]: Gets the URL of the Page
+2024-06-25T22:16:03+05:30 [info]: Replacing the string from the URL
+2024-06-25T22:16:03+05:30 [info]: Enter the Valid Email
+2024-06-25T22:16:04+05:30 [info]: Enter the Valid Password
+2024-06-25T22:16:12+05:30 [info]: Click on the SignIN button
+PrescriptionCreatedDate is :------->2024-08-12T15:57
+ExpectedFormattedDate is: -------->12/08/2024 15:57

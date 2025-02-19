@@ -1,0 +1,49 @@
+{
+  "name": "typescript-webportal-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "homepage": "npx cross-env ENV=dev npx playwright test homePortal.spec.ts",
+    "loginpage": "npx cross-env ENV=dev npx playwright test loginPortal.spec.ts",
+    "loginSessionExpired": "npx cross-env ENV=dev npx playwright test loginPortalAfterSessionExpired.spec.ts",
+    "administerAccount": "npx cross-env ENV=dev npx playwright test adminAccounts.spec.ts",
+    "portalwebrole": "npx cross-env ENV=dev npx playwright test portalWebRoles.spec.ts",
+    "chooseHospital": "npx cross-env ENV=dev npx playwright test chooseHospital.spec.ts",
+    "chooseDiagnosis": "npx cross-env ENV=dev npx playwright test portalDiagnosis.spec.ts",
+    "patientcategories": "npx cross-env ENV=dev npx playwright test portalPatientCategories.spec.ts",
+    "portalReferrerTypes": "npx cross-env ENV=dev npx playwright test portalReferrer.spec.ts",
+    "portale2eaccountsetup": "npx cross-env ENV=dev npx playwright test portalE2EAccountSetup.spec.ts",
+    "portale2ewithcode01": "npx cross-env ENV=dev npx playwright test portalE2EWithCode01.spec.ts",
+    "portaleregisterapicode": "npx cross-env ENV=dev npx playwright test portalRegisterAPI_Code.spec.ts",
+    "portalloginusingcode": "npx cross-env ENV=dev npx playwright test loginWithCode.spec.ts",
+    "portaledituseraccounts": "npx cross-env ENV=dev npx playwright test editUserInfo.spec.ts",
+    "patientlistpage": "npx cross-env ENV=dev npx playwright test patientlistpage.spec.ts",
+    "patientsearchpage": "npx cross-env ENV=dev npx playwright test patientSearch.spec.ts",
+    "patientenquiriespage": "npx cross-env ENV=dev npx playwright test viewPatientEnquiries.spec.ts",
+    "ptrackerpage": "npx cross-env ENV=dev npx playwright test prescriptionTracker.spec.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.10"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "allure-commandline": "^2.29.0",
+    "allure-playwright": "^2.15.1",
+    "axios": "^1.7.2",
+    "axios-retry": "^4.3.0",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "mailosaur": "^8.6.0",
+    "mailslurp-client": "^15.20.2",
+    "moment-timezone": "^0.5.45",
+    "path": "^0.12.7",
+    "vasu-playwright-utils": "^1.14.1",
+    "winston": "^3.13.0"
+  }
+}

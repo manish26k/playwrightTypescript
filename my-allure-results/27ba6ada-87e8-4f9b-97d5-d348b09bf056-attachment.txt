@@ -1,0 +1,2 @@
+2024-05-13T15:18:27+05:30 [info]: Navigate to the Sciensus HomePage
+2024-05-13T15:18:28+05:30 [info]: Click on the SignIn link

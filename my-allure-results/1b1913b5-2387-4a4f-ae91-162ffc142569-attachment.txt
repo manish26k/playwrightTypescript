@@ -1,0 +1,3 @@
+2024-05-10T15:48:59+05:30 [info]: Verify Sign In button is visible
+2024-05-10T15:49:03+05:30 [info]: Navigate to the Sciensus HomePage
+2024-05-10T15:49:03+05:30 [info]: verify the Sciensus HomePage Title

@@ -1,0 +1,2 @@
+2024-05-10T15:23:47+05:30 [info]: Verify Sign In button is visible
+2024-05-10T15:23:52+05:30 [info]: Click on the SignIn link

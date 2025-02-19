@@ -1,0 +1,11 @@
+2024-06-07T19:57:09+05:30 [info]: Navigate to the Sciensus HomePage
+2024-06-07T19:57:10+05:30 [info]: verify the Sciensus HomePage Title
+2024-06-07T19:57:18+05:30 [info]: Click on the SignIn link
+2024-06-07T19:57:20+05:30 [info]: Portal User navigate to the Login Page
+2024-06-07T19:57:20+05:30 [info]: Calling the bypassEmailAuthentication function
+2024-06-07T19:57:20+05:30 [info]: Gets the URL of the Page
+2024-06-07T19:57:22+05:30 [info]: Replacing the string from the URL
+2024-06-07T19:57:22+05:30 [info]: Enter the Valid Email
+2024-06-07T19:57:24+05:30 [info]: Enter the Valid Password
+2024-06-07T19:57:25+05:30 [info]: Click on the SignIN button
+The entered date is correct. Expected: 07/06/2024, Found: 07/06/2024

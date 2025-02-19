@@ -1,0 +1,4 @@
+2024-05-13T18:50:14+05:30 [info]: Navigate to the Sciensus HomePage
+2024-05-13T18:50:14+05:30 [info]: verify the Sciensus HomePage Title
+2024-05-13T18:50:20+05:30 [info]: Click on the SignIn link
+2024-05-13T18:50:21+05:30 [info]: Portal User navigate to the Login Page

@@ -1,0 +1,11 @@
+2024-06-05T20:41:29+05:30 [info]: Navigate to the Sciensus HomePage
+2024-06-05T20:41:29+05:30 [info]: verify the Sciensus HomePage Title
+2024-06-05T20:41:36+05:30 [info]: Click on the SignIn link
+2024-06-05T20:41:37+05:30 [info]: Portal User navigate to the Login Page
+2024-06-05T20:41:37+05:30 [info]: Calling the bypassEmailAuthentication function
+2024-06-05T20:41:37+05:30 [info]: Gets the URL of the Page
+2024-06-05T20:41:40+05:30 [info]: Replacing the string from the URL
+2024-06-05T20:41:40+05:30 [info]: Enter the Valid Email
+2024-06-05T20:41:41+05:30 [info]: Enter the Valid Password
+2024-06-05T20:41:42+05:30 [info]: Click on the SignIN button
+Referral Status Options are: ------->Active,Finished,On Hold

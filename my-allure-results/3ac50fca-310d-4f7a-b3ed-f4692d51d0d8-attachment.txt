@@ -1,0 +1,12 @@
+2024-06-14T21:46:20+05:30 [info]: Navigate to the Sciensus HomePage
+2024-06-14T21:46:20+05:30 [info]: verify the Sciensus HomePage Title
+2024-06-14T21:46:26+05:30 [info]: Click on the SignIn link
+2024-06-14T21:46:26+05:30 [info]: Portal User navigate to the Login Page
+2024-06-14T21:46:26+05:30 [info]: Calling the bypassEmailAuthentication function
+2024-06-14T21:46:26+05:30 [info]: Gets the URL of the Page
+2024-06-14T21:46:29+05:30 [info]: Replacing the string from the URL
+2024-06-14T21:46:29+05:30 [info]: Enter the Valid Email
+2024-06-14T21:46:30+05:30 [info]: Enter the Valid Password
+2024-06-14T21:46:31+05:30 [info]: Click on the SignIN button
+ENQUIRY_SUBJECT!!!!! ------>Enq_SUBJECT_Numquam tenus quo tonsor decens deputo tolero tutis temperantia.
+ENQUIRY_DESCRIPTION!!!! ------>Enq_DETAILS_Clarus combibo voco nisi voluptatibus auctus tandem acerbitas comparo adversus.

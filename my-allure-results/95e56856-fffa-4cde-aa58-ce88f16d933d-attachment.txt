@@ -1,0 +1,15 @@
+Failed to parse JSON content: SyntaxError: Unexpected token c in JSON at position 7
+    at JSON.parse (<anonymous>)
+    at Function.readData (E:\Typescript-WebPortal-Automation\utils\FileHelper.ts:20:27)
+    at E:\Typescript-WebPortal-Automation\tests\editUserAccount.spec.ts:26:28
+    at E:\Typescript-WebPortal-Automation\node_modules\playwright\lib\worker\workerMain.js:336:9
+    at E:\Typescript-WebPortal-Automation\node_modules\playwright\lib\worker\testInfo.js:297:11
+    at TimeoutManager.withRunnable (E:\Typescript-WebPortal-Automation\node_modules\playwright\lib\worker\timeoutManager.js:53:14)
+    at TestInfoImpl._runAsStage (E:\Typescript-WebPortal-Automation\node_modules\playwright\lib\worker\testInfo.js:295:7)
+    at E:\Typescript-WebPortal-Automation\node_modules\playwright\lib\worker\workerMain.js:328:7
+    at E:\Typescript-WebPortal-Automation\node_modules\playwright\lib\worker\testInfo.js:297:11
+    at TimeoutManager.withRunnable (E:\Typescript-WebPortal-Automation\node_modules\playwright\lib\worker\timeoutManager.js:41:27)
+    at TestInfoImpl._runAsStage (E:\Typescript-WebPortal-Automation\node_modules\playwright\lib\worker\testInfo.js:295:7)
+    at WorkerMain._runTest (E:\Typescript-WebPortal-Automation\node_modules\playwright\lib\worker\workerMain.js:278:5)
+    at WorkerMain.runTestGroup (E:\Typescript-WebPortal-Automation\node_modules\playwright\lib\worker\workerMain.js:202:11)
+    at process.<anonymous> (E:\Typescript-WebPortal-Automation\node_modules\playwright\lib\common\process.js:94:22)
