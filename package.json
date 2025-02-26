@@ -1,7 +1,6 @@
 {
   "name": "typescript-webportal-automation",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "homepage": "npx cross-env ENV=dev npx playwright test homePortal.spec.ts",
@@ -27,7 +26,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.44.0",
+    "@playwright/test": "^1.50.1",
     "@types/node": "^20.12.10"
   },
   "dependencies": {
@@ -45,5 +44,17 @@
     "path": "^0.12.7",
     "vasu-playwright-utils": "^1.14.1",
     "winston": "^3.13.0"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manish26k/playwrightTypescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manish26k/playwrightTypescript/issues"
+  },
+  "homepage": "https://github.com/manish26k/playwrightTypescript#readme",
+  "description": ""
 }
