@@ -29,13 +29,13 @@ export default defineConfig({
   retries: process.env.CI ? 2 : 0,
   /* Opt out of parallel tests on CI. */
   workers: process.env.CI ? 1 : undefined,
-  reporter: [[`html`], /* Reporter to use. See https://playwright.dev/docs/test-reporters */
+  reporter: [[`html`],/* Reporter to use. See https://playwright.dev/docs/test-reporters */
   ["allure-playwright",
     {
       detail: true,
       outputFolder: "my-allure-results",
       suiteTitle: false,
-    },]
+    },],[`github`]
   ],
    /* Maximum time one test can run for. */
   timeout: 240000,
